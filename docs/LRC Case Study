@@ -1,0 +1,23 @@
+# 0x618 Linear Regression Channel – Case Study
+
+## Problem
+
+Manual trend interpretation is inconsistent and subjective.
+
+## Approach
+
+- Linear regression used to define structural direction
+- Channel width used as volatility regime indicator
+- Gradient measurement to quantify directional bias
+- Optional filtering logic to suppress low-quality environments
+
+## Result
+
+- Reduced overtrading in compression regimes
+- Clearer invalidation logic
+- Structured trade planning
+
+## Limitations
+
+- Regression lag in turning markets
+- Parameter sensitivity
